@@ -1,0 +1,20 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+ body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ }
+ #input-1{
+    margin-left: 45px;
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+ }
+ .conatiner{
+    border: 2px solid black;
+    box-shadow: 0px 10px 5px black;
+    padding: 30px;
+ }
